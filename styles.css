@@ -1,0 +1,11 @@
+
+
+.custom-background {
+    background-image: url("IMAGES/top resort beach.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 -150px;
+    height: 400px;
+    display: flex;
+    
+}
